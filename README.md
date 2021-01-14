@@ -10,6 +10,13 @@ The pipeline is composed of five Python operators. The first two operators creat
 ### 
 Jupyter Notebooks were used originally to examine the data and test the cleaning process.
 
+### Input Examples
+#### NWHL
+<img width="1182" alt="Screen Shot 2021-01-14 at 2 39 46 PM" src="https://user-images.githubusercontent.com/73121387/104640576-a76cff00-5676-11eb-8cbc-6c4bfe09b443.png">
+
+#### CWHL
+<img width="1012" alt="Screen Shot 2021-01-14 at 2 40 14 PM" src="https://user-images.githubusercontent.com/73121387/104640583-ab008600-5676-11eb-8643-c6d201686ed8.png">
+
 ### Technologies/Languages
 * Python
 * Apache Airflow
